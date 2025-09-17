@@ -27,9 +27,3 @@ When I’m not hacking or programming, you’ll find me:
 - Tinkering with retro tech & customization  
 
 ---
-
-## GitHub Stats  
-![bffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bffee&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bffee&layout=compact&theme=tokyonight)  
-
----
