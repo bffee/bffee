@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abuzark</h1>
 <h3 align="center">cybersecurity enthusiast who loves hacking and programming</h3>
-<img align="right" alt="Hacking" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F1744&psig=AOvVaw21renFkFuvZUIQat3R95Jf&ust=1758755251522000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCIDYuIqA8I8DFQAAAAAdAAAAABAE](https://tryhackme-images.s3.amazonaws.com/user-avatars/61a7aee5466f2500415ffeeb-1707091688278)">
+<img align="right" alt="Hacking" width="400" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/61a7aee5466f2500415ffeeb-1707091688278">
 
 - 🌱 I’m currently learning **BlockChain**
 
