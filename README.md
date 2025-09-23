@@ -1,8 +1,8 @@
 # Hi, I'm Abuzark  
 
-**Cybersecurity Student** | GNU/Linux Systems Enthusiast | Programmer  
+**Cybersecurity Enthusiast** | GNU/Linux Rice | Programmer | Gamer 
 
-I’m a cybersecurity student who loves **hacking and programming**.  
+I’m a cybersecurity enthusiast who loves **hacking and programming**.  
 Currently diving deep into **Bug Bounty Hunting** and sharpening my skills in real-world web application security.  
 
 ---
@@ -10,7 +10,7 @@ Currently diving deep into **Bug Bounty Hunting** and sharpening my skills in re
 ## Tech Stack & Tools  
 - **Languages:** C/C++ | Python | JavaScript | PHP  
 - **OS:** Arch Linux (btw)  
-- **Focus Areas:** Cybersecurity, Web Security, Bug Bounties  
+- **Focus Areas:** Cybersecurity, Web Development  
 
 ---
 
