@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abuzark</h1>
+<h1 align="center">Hi, I'm Abuzark</h1>
 <h3 align="center">cybersecurity enthusiast who loves hacking and programming</h3>
 
 - 🌱 I’m currently learning **BlockChain**
